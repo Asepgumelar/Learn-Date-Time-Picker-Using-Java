@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DateTimes</string>
+    <string name="choose_datetime">Dipilih guys:</string>
+    <string name="date_button">Set Date</string>
+    <string name="time_button">Set Time</string>
+    <string name="date_picker">datePicker</string>
+    <string name="time_picker">timePicker</string>
+    <string name="date">"Date: "</string>
+    <string name="time">"Time: "</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello All blank fragment</string>
+</resources>
